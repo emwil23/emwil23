@@ -98,9 +98,6 @@ I work across the whole problem: frontend architecture, backend APIs, LLM integr
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=emwil23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emwil23&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=emwil23&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
 
 <sub>Most of my work lives in private company repositories, so these numbers undersell it — the resume above is the real picture.</sub>
 
